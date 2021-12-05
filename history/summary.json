@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/thing.press",
     "slug": "branza",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 518,
-    "timeDay": 339,
-    "timeWeek": 417,
-    "timeMonth": 485,
-    "timeYear": 518,
-    "dailyMinutesDown": {
-      "2021-12-04": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 517,
+    "timeDay": 392,
+    "timeWeek": 395,
+    "timeMonth": 488,
+    "timeYear": 517,
+    "dailyMinutesDown": {}
   }
 ]
