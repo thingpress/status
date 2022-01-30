@@ -5,6 +5,14 @@ repo: status # The name of this repository
 sites:
   - name: Branza
     url: https://thing.press/
+  - name: Dashboard
+    url: https://my.thing.press/
+  - name: Projects
+    url: https://projects.thing.press/
+  - name: Honey
+    url: https://honey.thing.press/
+  - name: Latte
+    url: https://latte.thing.press/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
