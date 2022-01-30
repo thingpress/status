@@ -1,19 +1,19 @@
 BODY {
-    background: #F4F4F4;
-    color: #282A36;
+    background: #F4F4F4 !important;
+    color: #282A36 !important;
 }
 
 NAV {
-    border-bottom: none;
+    border-bottom: none !important;
 }
 
 ARTICLE {
-    box-shadow: 0 8px 18px 0 rgba(0, 0, 0, 0.12);
-    border: none;
-    margin-bottom: 2em;
+    box-shadow: 0 8px 18px 0 rgba(0, 0, 0, 0.12) !important;
+    border: none !important;
+    margin-bottom: 2em !important;
 }
 
 [aria-current] {
-    border-bottom: none;
-    font-weight: bold;
+    border-bottom: none !important;
+    font-weight: bold !important;
 }

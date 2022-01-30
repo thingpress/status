@@ -23,10 +23,9 @@ status-website:
   name: thing.press
   introTitle: "**Network Status**"
   introMessage: Metrics are compiled using **real-time** data processed by our [GitHub repository](https://github.com/thingpress/status) and automated workflows.
-  # links:
-  #   - rel: stylesheet
-  #     href: https://raw.githubusercontent.com/thingpress/status/master/assets/styles.css
-  theme: dark
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/thingpress/status/master/assets/styles.css
   navbar:
     - title: Dashboard
       href: https://my.thing.press/
