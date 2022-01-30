@@ -19,14 +19,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.thing.press
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: System Status
-  introTitle: "**thing.press**"
-  introMessage: System status is compiled using **real-time** data processed by our [GitHub repository](https://github.com/thingpress/status) and automated workflows.
+  logoUrl: https://raw.githubusercontent.com/thingpress/status/master/assets/thing.press-sq.png
+  name: thing.press
+  introTitle: "**Network Status**"
+  introMessage: Metrics are compiled using **real-time** data processed by our [GitHub repository](https://github.com/thingpress/status) and automated workflows.
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/thingpress/status/master/assets/styles.css
   navbar:
-    - title: thing.press System Status
-      href: /
-    - title: My Account
+    - title: Dashboard
       href: https://my.thing.press/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
