@@ -1,0 +1,19 @@
+BODY {
+    background: #F4F4F4;
+    color: #282A36;
+}
+
+NAV {
+    border-bottom: none;
+}
+
+ARTICLE {
+    box-shadow: 0 8px 18px 0 rgba(0, 0, 0, 0.12);
+    border: none;
+    margin-bottom: 2em;
+}
+
+[aria-current] {
+    border-bottom: none;
+    font-weight: bold;
+}
