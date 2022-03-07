@@ -4,11 +4,11 @@
     "url": "https://thing.press/",
     "icon": "https://favicons.githubusercontent.com/thing.press",
     "slug": "branza",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 574,
     "timeDay": 727,
@@ -16,6 +16,7 @@
     "timeMonth": 690,
     "timeYear": 574,
     "dailyMinutesDown": {
+      "2022-03-07": 2,
       "2022-02-13": 28
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://my.thing.press/",
     "icon": "https://favicons.githubusercontent.com/my.thing.press",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 2138,
     "timeDay": 3144,
     "timeWeek": 3212,
     "timeMonth": 2268,
     "timeYear": 2138,
     "dailyMinutesDown": {
+      "2022-03-07": 2,
       "2022-02-13": 28
     }
   },
@@ -44,18 +46,19 @@
     "url": "https://projects.thing.press/",
     "icon": "https://favicons.githubusercontent.com/projects.thing.press",
     "slug": "projects",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 322,
     "timeDay": 262,
     "timeWeek": 294,
     "timeMonth": 329,
     "timeYear": 322,
     "dailyMinutesDown": {
+      "2022-03-07": 1,
       "2022-02-13": 28
     }
   },
@@ -64,10 +67,10 @@
     "url": "https://honey.thing.press/",
     "icon": "https://favicons.githubusercontent.com/honey.thing.press",
     "slug": "honey",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 469,
@@ -76,6 +79,7 @@
     "timeMonth": 506,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2022-03-07": 1,
       "2022-02-13": 28
     }
   },
@@ -84,9 +88,9 @@
     "url": "https://latte.thing.press/",
     "icon": "https://favicons.githubusercontent.com/latte.thing.press",
     "slug": "latte",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -96,6 +100,7 @@
     "timeMonth": 459,
     "timeYear": 400,
     "dailyMinutesDown": {
+      "2022-03-07": 0,
       "2022-02-13": 28
     }
   }
