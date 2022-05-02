@@ -4,10 +4,10 @@
     "url": "https://thing.press/",
     "icon": "https://favicons.githubusercontent.com/thing.press",
     "slug": "branza",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 570,
@@ -16,6 +16,7 @@
     "timeMonth": 526,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2022-05-02": 1,
       "2022-03-07": 33,
       "2022-02-13": 28
     }
@@ -25,9 +26,9 @@
     "url": "https://my.thing.press/",
     "icon": "https://favicons.githubusercontent.com/my.thing.press",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -37,6 +38,7 @@
     "timeMonth": 2927,
     "timeYear": 2748,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-03-07": 33,
       "2022-02-13": 28
     }
@@ -47,11 +49,11 @@
     "icon": "https://favicons.githubusercontent.com/projects.thing.press",
     "slug": "projects",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 403,
     "timeDay": 472,
     "timeWeek": 416,
