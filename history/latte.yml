@@ -1,7 +1,7 @@
 url: https://latte.thing.press/
-status: up
-code: 200
-responseTime: 681
-lastUpdated: 2022-07-06T23:05:31.071Z
+status: down
+code: 500
+responseTime: 378
+lastUpdated: 2022-07-07T16:40:34.394Z
 startTime: Sun Jan 30 2022 02:34:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
