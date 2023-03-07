@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 624,
-    "timeDay": 568,
-    "timeWeek": 581,
-    "timeMonth": 551,
-    "timeYear": 646,
+    "timeDay": 500,
+    "timeWeek": 543,
+    "timeMonth": 548,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2022-12-07": 15,
       "2022-11-25": 206,
@@ -25,8 +25,7 @@
       "2022-06-24": 36,
       "2022-06-23": 6,
       "2022-06-21": 31,
-      "2022-05-28": 705,
-      "2022-03-07": 33
+      "2022-05-28": 705
     }
   },
   {
@@ -40,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 2155,
-    "timeDay": 799,
-    "timeWeek": 994,
-    "timeMonth": 929,
-    "timeYear": 2159,
+    "time": 2152,
+    "timeDay": 1148,
+    "timeWeek": 1035,
+    "timeMonth": 939,
+    "timeYear": 2154,
     "dailyMinutesDown": {
       "2022-12-07": 14,
       "2022-11-25": 205,
@@ -54,8 +53,7 @@
       "2022-07-01": 42,
       "2022-06-30": 177,
       "2022-06-21": 49,
-      "2022-05-28": 704,
-      "2022-03-07": 33
+      "2022-05-28": 704
     }
   },
   {
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 404,
-    "timeDay": 526,
-    "timeWeek": 493,
-    "timeMonth": 386,
+    "timeDay": 300,
+    "timeWeek": 439,
+    "timeMonth": 379,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2022-11-25": 203,
@@ -81,8 +79,7 @@
       "2022-07-01": 42,
       "2022-06-30": 177,
       "2022-06-21": 30,
-      "2022-05-28": 704,
-      "2022-03-07": 32
+      "2022-05-28": 704
     }
   },
   {
@@ -91,15 +88,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/honey.thing.press.ico",
     "slug": "honey",
     "status": "up",
-    "uptime": "94.20%",
+    "uptime": "94.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.65%",
-    "time": 384,
-    "timeDay": 107,
-    "timeWeek": 366,
-    "timeMonth": 323,
+    "time": 385,
+    "timeDay": 423,
+    "timeWeek": 369,
+    "timeMonth": 324,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2022-11-25": 202,
@@ -128,8 +125,7 @@
       "2022-06-03": 1440,
       "2022-06-02": 1440,
       "2022-06-01": 419,
-      "2022-05-28": 929,
-      "2022-03-07": 32
+      "2022-05-28": 929
     }
   },
   {
@@ -138,15 +134,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/latte.thing.press.ico",
     "slug": "latte",
     "status": "up",
-    "uptime": "91.49%",
+    "uptime": "91.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.68%",
-    "time": 514,
-    "timeDay": 291,
-    "timeWeek": 328,
-    "timeMonth": 709,
+    "time": 513,
+    "timeDay": 273,
+    "timeWeek": 318,
+    "timeMonth": 700,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2022-11-25": 200,
@@ -187,8 +183,7 @@
       "2022-06-03": 1440,
       "2022-06-02": 1440,
       "2022-06-01": 419,
-      "2022-05-28": 929,
-      "2022-03-07": 31
+      "2022-05-28": 929
     }
   }
 ]
