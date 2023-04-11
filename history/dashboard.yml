@@ -1,7 +1,7 @@
 url: https://my.thing.press/
-status: up
-code: 200
-responseTime: 817
-lastUpdated: 2023-04-10T23:02:34.295Z
+status: down
+code: 500
+responseTime: 274
+lastUpdated: 2023-04-11T19:39:18.605Z
 startTime: Sun Jan 30 2022 02:34:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
