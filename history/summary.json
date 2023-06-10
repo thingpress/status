@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 622,
-    "timeDay": 550,
-    "timeWeek": 561,
+    "timeDay": 504,
+    "timeWeek": 588,
     "timeMonth": 504,
-    "timeYear": 595,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2023-04-12": 110,
       "2023-04-11": 261,
@@ -40,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1870,
-    "timeDay": 474,
-    "timeWeek": 576,
-    "timeMonth": 557,
-    "timeYear": 1514,
+    "time": 1865,
+    "timeDay": 596,
+    "timeWeek": 561,
+    "timeMonth": 558,
+    "timeYear": 1509,
     "dailyMinutesDown": {
       "2023-04-12": 110,
       "2023-04-11": 261,
@@ -68,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 403,
+    "time": 404,
     "timeDay": 442,
     "timeWeek": 383,
-    "timeMonth": 375,
+    "timeMonth": 376,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2022-11-25": 203,
@@ -88,14 +88,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/honey.thing.press.ico",
     "slug": "honey",
     "status": "up",
-    "uptime": "95.26%",
+    "uptime": "95.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.78%",
+    "uptimeYear": "96.06%",
     "time": 375,
-    "timeDay": 454,
-    "timeWeek": 324,
+    "timeDay": 412,
+    "timeWeek": 325,
     "timeMonth": 336,
     "timeYear": 355,
     "dailyMinutesDown": {
@@ -116,8 +116,7 @@
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
-      "2022-06-11": 1440,
-      "2022-06-10": 1440
+      "2022-06-11": 1440
     }
   },
   {
@@ -126,16 +125,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/latte.thing.press.ico",
     "slug": "latte",
     "status": "up",
-    "uptime": "93.07%",
+    "uptime": "93.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.81%",
+    "uptimeYear": "93.08%",
     "time": 487,
-    "timeDay": 241,
-    "timeWeek": 291,
+    "timeDay": 339,
+    "timeWeek": 256,
     "timeMonth": 403,
-    "timeYear": 482,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2023-04-12": 110,
       "2023-04-11": 261,
@@ -166,8 +165,7 @@
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
-      "2022-06-11": 1440,
-      "2022-06-10": 1440
+      "2022-06-11": 1440
     }
   }
 ]
